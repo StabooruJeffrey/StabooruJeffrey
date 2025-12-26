@@ -1,11 +1,9 @@
+<img width="608" height="640" alt="StabooruJeffrey" src="https://github.com/user-attachments/assets/ac6c7cc5-dac8-4c6f-a352-6976575a6db1" />
+
 ## StabooruJeffrey
 
 ## The most stable and modular AI engine and application.
 ## [(v0.3.60)](https://github.com/comfyuiAudio/ComfyAudio/releases/tag/v0.3.59)
-
-<img width="608" height="640" alt="StabooruJeffrey" src="https://github.com/user-attachments/assets/ac6c7cc5-dac8-4c6f-a352-6976575a6db1" />
-
-
 <!--
 **StabooruJeffrey/StabooruJeffrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
