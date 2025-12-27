@@ -4,6 +4,7 @@
 
 ## The most stable and modular AI engine and application.
 ## [(v0.3.60)](https://github.com/comfyuiAudio/ComfyAudio/releases/tag/v0.3.59)
+That seems about right.
 <!--
 **StabooruJeffrey/StabooruJeffrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
