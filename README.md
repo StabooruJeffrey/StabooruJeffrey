@@ -3,7 +3,9 @@
 ## StabooruJeffrey
 
 ## 最穩定且模組化的 AI 引擎與應用。
+## सबसे स्थिर और मॉड्यूलर एआई इंजन और एप्लिकेशन।
 ## 가장 신뢰할 수 있고 모듈화된 AI 엔진과 애플리케이션.
+## Самый стабильный и модульный движок и применение ИИ.
 ## 最も安定しモジュール化されたAIエンジンとアプリケーション。
 ## The most stable and modular AI engine and application.
 ## [(v0.3.60)](https://github.com/comfyuiAudio/ComfyAudio/releases/tag/v0.3.59)
